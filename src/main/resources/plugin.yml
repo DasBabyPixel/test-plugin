@@ -1,0 +1,6 @@
+name: TestPlugin
+version: 1.0
+api-version: 1.13
+main: de.dasbabypixel.testplugin.TestPlugin
+commands:
+  test:
